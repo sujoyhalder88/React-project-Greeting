@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.P_style {
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Josefin Slab", serif;
+}
+.H1_style {
+    color: red;
+    margin-top: 50px;
+}
+.img_div {
+    display: flex;
+    justify-content: center;
+}
+.img_div img {
+    width: 200px;
+    height: 300px;
+    display: inline;
+    /* margin: auto; */
+    margin-top: 50px;
+}
